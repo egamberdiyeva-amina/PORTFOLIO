@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  color: lightyellow;
+  margin-top: 50px;
+}
+.con {
+  width: 1180px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.site-i {
+  margin-top: 200px;
+}
+.site-img {
+  margin-top: 100px;
+}
+.m {
+  display: flex;
+  margin-top: 20px;
+}
+.card {
+  width: 350px;
+  margin-top: 100px;
+  box-shadow: 20px 20px 10px rgb(255, 255, 255);
+}
+.href {
+  text-decoration-line: none;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  margin-left: 200px;
+  margin-top: 200px;
+}
+.l {
+  display: flex;
+}
+.v {
+  width: 500px;
+  margin-top: 200px;
+  margin-left: 200px;
+}
